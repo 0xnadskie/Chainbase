@@ -2,7 +2,7 @@ operator:
     address: 0xebd296858d594c3e0aee0394cee67f503fc0cd73
     delegation_approver_address: "0x0000000000000000000000000000000000000000"
     staker_opt_out_window_blocks: 0
-    metadata_url: "https://github.com/0xnadskie/Chainbase/blob/d7140936e4c06f72ac1bb7f3b6c77ac2c945345a/metadata.json"
+    metadata_url: "https://github.com/0xnadskie/Chainbase/blob/main/metadata.json"
 el_delegation_manager_address: 0xA44151489861Fe9e3055d95adC98FbD462B948e7
 eth_rpc_url: https://ethereum-holesky-rpc.publicnode.com
 chain_id: 17000
